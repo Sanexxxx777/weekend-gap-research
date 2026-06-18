@@ -1,0 +1,14 @@
+# Market data — reproduced via collect*.py, not committed
+*.csv
+
+# Secrets / runtime
+.env
+config.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+.DS_Store
