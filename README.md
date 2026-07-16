@@ -61,7 +61,7 @@ FINAL_SPEC.md      # итоговая модель
 
 ## Автор
 
-**Sanexxxx777** · github.com/Sanexxxx777
+**Aleksandr Shulgin** ([@Sanexxxx777](https://github.com/Sanexxxx777)) (@Aleksandr_NFA)
 Канал: [t.me/driptrade3](https://t.me/driptrade3)
 
 ## Лицензия
