@@ -64,6 +64,10 @@ FINAL_SPEC.md      # итоговая модель
 **Aleksandr Shulgin** ([@Sanexxxx777](https://github.com/Sanexxxx777)) (@Aleksandr_NFA)
 Канал: [t.me/driptrade3](https://t.me/driptrade3)
 
+## Безопасность
+
+См. [SECURITY.md](SECURITY.md).
+
 ## Лицензия
 
 MIT — см. [LICENSE](LICENSE).
